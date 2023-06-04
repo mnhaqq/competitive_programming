@@ -1,0 +1,30 @@
+CONTEST ANALYSIS
+
+PROBLEM 1: KING'S SPEECH
+I think I did well with this problem.
+Solved it after 4 mins, could have been less but the time was still good.
+Used formatted strings, which I think was the best approach for this problem,
+since looking at my code it's very obvious what I was trying to do.
+
+PROBLEM 2: DAKTI
+This problem was a massive headache. Spent so much time on it and got 3 penalties
+My main issue was that I assumed the numbers in the string were always going to be
+single digit like in the test case.
+So in all my failed submissions I was passing the given test case but failing others
+which included numbers having more than 1 digit.
+This was the last problem I solved, I skipped it and solved the third problem and even tried solving
+the fourth one before coming back to this.
+At a point I gave up when I was still getting errors and I couldn't even see the test case I was failing on
+and didn't know what I was supposed to fix
+
+PROBLEM 3: I_love_%username%
+This problem was also relatively straightforward for me
+This was the second problem I solved after skipping the second one
+Almost all other solutions were similar to mine so I'm guessing my method was okay
+My only regret here was that I could have solved this earlier if I looked at all problems
+before starting to solve them. Because in my opinion this was more straightforward than the 
+previous problem. I would have had a better time and rank if I moved to this quicker
+
+PROBLEM 4 AND 5
+I didn't really have enough time to look at these problems during the contest since I was struggling 
+with problem 2
