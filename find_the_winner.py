@@ -10,3 +10,7 @@ class Solution:
                 n-=1
             else:
                 return players[0]
+
+"""
+Time complexity = O(n + (2n*(1+n+1))) = O(n**2) 
+"""
