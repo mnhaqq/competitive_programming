@@ -1,0 +1,27 @@
+Performance Analysis
+
+Contest #3
+THINGS TO IMPROVE
+1. For problem C it was clearly stated that the array could contain negative numbers, 
+   but I didn’t check for that in my first submission. 
+ -Fix: Make  sure I don’t miss any essential information before trying to solve the problem. 
+   I could have easily avoided a 20 minute penalty
+
+2. Made a similar even more silly mistake for problem D. 
+   Didn’t fully understand what the question was asking for before I started trying to solve it. 
+   Got wrong submissions a few times before going back to read the problem to get what I was supposed to do. 
+   Even after understanding I overcomplicated the solution  and wasted too much time on this problem
+ -Fix: Never try to solve the problem until I don’t understand it fully
+
+3. Spent over an hour on problem E and still couldn’t come up with a solution. 
+   Gave up totally at a point and was just watching the standings.
+ -Fix: Never give up until the last second. Practice more problems outside the contest to be more 
+  ready. And look at the standings less especially when I have only 1 problem left.
+
+THINGS I DID GOOD
+1. Made sure I whiteboarded before solving each problem. So I knew what I was trying to implement before touching the keyboard.
+
+2. Didn’t waste any time on the first three problems. And used the examples to my advantage especially for problem A which was a bit confusing.
+
+3. For problem E, I had a solution in mind that would have worked but it had a complexity of n^2 so I didn’t even try it since I would have got TLE for one of the test cases. 
+   So I guess I applied knowledge from the lecture on Big O notation.
