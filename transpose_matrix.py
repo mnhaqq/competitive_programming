@@ -1,14 +1,7 @@
 class Solution:
     def transpose(self, matrix: List[List[int]]) -> List[List[int]]:
-        transposed = []
-
-        i = 0
-        while i < len(matrix[0]):
-            add = []
-            j = 0
-            while j < len(matrix):
-                add.append(matrix[j][i])
-                j+=1
-            i+=1
-            transposed.append(add)
-        return transposed
+        result = [[0 for col in range(len(matrix))] for rows in range(len(matrix[0]))]
+        for i in range(len(matrix)):
+            for j in range(len(matrix[0])):
+                result[j][i] = matrix[i][j]
+        return result
